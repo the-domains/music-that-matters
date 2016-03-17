@@ -1,6 +1,6 @@
 name: Music  That Matters
 favicon: null
-layout_spectrum: 0.93923
+layout_spectrum: 0.45909
 typography_spectrum: 0.91516
 title: Music with Intentional Meaning
 cta:
@@ -22,8 +22,8 @@ color:
     - '#244069'
     - '#30717e'
     - '#85383a'
-  brandStrength: 1
-  lightness: 0.6875
+  brandStrength: 0
+  lightness: 0.1875
   saturation: 0.25
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
