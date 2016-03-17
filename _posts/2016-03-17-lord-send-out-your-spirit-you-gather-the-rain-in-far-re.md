@@ -1,11 +1,11 @@
 ---
 description: 'Lord, Send Out Your Spirit    You gather the rain  In far reaches of the heavens  You take wild rivers to tame  As they wander through the mountains   All the w'
 author: []
-datePublished: '2016-03-17T00:29:12.688Z'
+datePublished: '2016-03-17T01:19:05.274Z'
 publisher:
   domain: bobmetivier.bandcamp.com
   name: bobmetivier.bandcamp.com
-dateModified: '2016-03-17T00:25:24.013Z'
+dateModified: '2016-03-17T01:18:15.278Z'
 title: ''
 sourcePath: _posts/2016-03-17-lord-send-out-your-spirit-you-gather-the-rain-in-far-re.md
 published: true
