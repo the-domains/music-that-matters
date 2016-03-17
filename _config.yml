@@ -1,7 +1,7 @@
 name: Music  That Matters
 favicon: null
-layout_spectrum: 0.4032867928035557
-typography_spectrum: 0.2734462262596935
+layout_spectrum: 1
+typography_spectrum: 0.5012
 cta:
   domain: null
   bucket: null
