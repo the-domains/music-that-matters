@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Music  That Matters]]></title>
         <description><![CDATA[Music  That Matters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/music-that-matters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 00:06:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 00:06:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/music-that-matters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Parce Domine, by Bob Metivier]]></title>
+            <description><![CDATA[<article><h1>Parce Domine, by Bob Metivier</h1><p>Parce Domine by Bob Metivier, released 08 March 2012</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8314589dcdd55eae2fc3eee80bf98c910fbcc3f.jpg"></article>]]></description>
+            <link>http://bobmetivier.bandcamp.com/track/parce-domine</link>
+            <guid isPermaLink="false">ea571d2a-793f-48ac-98b2-369cf9d4a372</guid>
+            <pubDate>Thu, 17 Mar 2016 00:06:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://f1.bcbits.com/img/a0539491193_16.jpg">]]></description>
-            <link>undefined5cea689e-34dc-4ff9-921a-bdf740d5eeff/index.html</link>
+            <link>https://thegrid.ai/music-that-matters/5cea689e-34dc-4ff9-921a-bdf740d5eeff/index.html</link>
             <guid isPermaLink="false">5cea689e-34dc-4ff9-921a-bdf740d5eeff</guid>
             <pubDate>Thu, 17 Mar 2016 00:06:27 GMT</pubDate>
         </item>
