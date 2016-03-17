@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/lord-send-out-your-spirit'
 title: 'Lord, Send Out Your Spirit, by Bob Metivier'
-datePublished: '2016-03-17T00:20:46.152Z'
-dateModified: '2016-03-16T23:46:16.013Z'
+datePublished: '2016-03-17T00:40:33.857Z'
+dateModified: '2016-03-17T00:39:36.223Z'
 sourcePath: _posts/2016-03-17-lord-send-out-your-spirit-by-bob-metivier.md
 published: true
 inFeed: true
