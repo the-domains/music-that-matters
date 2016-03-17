@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Music  That Matters]]></title>
         <description><![CDATA[Music  That Matters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/music-that-matters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 00:20:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 00:21:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/music-that-matters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://f1.bcbits.com/img/a0539491193_7.jpg">]]></description>
+            <link>https://thegrid.ai/music-that-matters/5798d59b-6108-4d69-9b81-45a3d03680e8/index.html</link>
+            <guid isPermaLink="false">5798d59b-6108-4d69-9b81-45a3d03680e8</guid>
+            <pubDate>Thu, 17 Mar 2016 00:20:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://f1.bcbits.com/img/a2345009720_7.jpg">]]></description>
-            <link>undefinedeb950023-2417-4443-b7e1-54bbd0a4ed4c/index.html</link>
+            <link>https://thegrid.ai/music-that-matters/eb950023-2417-4443-b7e1-54bbd0a4ed4c/index.html</link>
             <guid isPermaLink="false">eb950023-2417-4443-b7e1-54bbd0a4ed4c</guid>
             <pubDate>Thu, 17 Mar 2016 00:20:45 GMT</pubDate>
         </item>
