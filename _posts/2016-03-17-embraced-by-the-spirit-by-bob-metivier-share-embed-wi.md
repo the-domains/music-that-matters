@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Bob Metivier\_"
-datePublished: '2016-03-17T01:40:52.459Z'
-dateModified: '2016-03-17T01:39:56.288Z'
+datePublished: '2016-03-17T01:42:21.535Z'
+dateModified: '2016-03-17T01:41:40.090Z'
 author: []
 title: Embraced By the Spirit
 sourcePath: _posts/2016-03-17-embraced-by-the-spirit-by-bob-metivier-share-embed-wi.md
