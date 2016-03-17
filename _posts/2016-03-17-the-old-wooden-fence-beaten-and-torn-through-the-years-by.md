@@ -1,11 +1,11 @@
 ---
 description: The old wooden fence  Beaten and torn through the years  By the wind and the sudden storms  -all that nature could conspire to bring.  Yet it somehow managed to
 author: []
-datePublished: '2016-03-17T00:29:12.439Z'
+datePublished: '2016-03-17T01:00:09.902Z'
 publisher:
   domain: bobmetivier.bandcamp.com
   name: bobmetivier.bandcamp.com
-dateModified: '2016-03-17T00:27:19.311Z'
+dateModified: '2016-03-17T00:59:33.103Z'
 title: ''
 sourcePath: _posts/2016-03-17-the-old-wooden-fence-beaten-and-torn-through-the-years-by.md
 published: true
