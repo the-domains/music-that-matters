@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/walk-with-me'
 title: 'Walk With Me, by Bob Metivier'
-datePublished: '2016-03-17T00:06:27.186Z'
-dateModified: '2016-03-16T23:48:20.635Z'
+datePublished: '2016-03-17T00:40:33.913Z'
+dateModified: '2016-03-17T00:39:11.395Z'
 sourcePath: _posts/2016-03-17-walk-with-me-by-bob-metivier.md
 published: true
 inFeed: true
