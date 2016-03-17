@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/parce-domine'
 title: 'Parce Domine, by Bob Metivier'
-datePublished: '2016-03-17T00:06:27.087Z'
-dateModified: '2016-03-16T23:47:59.222Z'
+datePublished: '2016-03-17T00:40:33.951Z'
+dateModified: '2016-03-17T00:39:38.650Z'
 sourcePath: _posts/2016-03-17-parce-domine-by-bob-metivier.md
 published: true
 inFeed: true
