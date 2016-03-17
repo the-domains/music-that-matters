@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://bobmetivier.bandcamp.com/track/listen-in-your-heart'
 title: 'Listen In Your Heart, by Bob Metivier'
-datePublished: '2016-03-17T00:40:34.089Z'
-dateModified: '2016-03-17T00:39:23.195Z'
+datePublished: '2016-03-17T01:19:05.285Z'
+dateModified: '2016-03-17T00:59:03.701Z'
 sourcePath: _posts/2016-03-17-listen-in-your-heart-by-bob-metivier.md
 published: true
 inFeed: true
